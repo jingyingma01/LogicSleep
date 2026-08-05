@@ -10,13 +10,13 @@ This repository is the official implementation of the npjAI 2026 paper *LogicSle
 - **Physiologically grounded personalization:** Combines statistical and symbolic sequence priors with rule-guided test-time adaptation to produce plausible, subject-specific predictions.
 - **A substantial extension of our previous work:** LogicSleep advances [ST-USleepNet](https://www.ijcai.org/proceedings/2025/0466) from local sleep-stage prediction to neurosymbolic sequence modeling, personalized adaptation, and broader cross-dataset evaluation. 
 
-![](.\assets\Intro.png)
+![](./assets/Intro.png)
 
 ## Methodology
 
-![](.\assets\Method.png)
+![](./assets/Method.png)
 
-![](.\assets\Backbone.png)
+![](./assets/Backbone.png)
 
 ## Visualization
 
