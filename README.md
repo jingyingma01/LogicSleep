@@ -20,7 +20,7 @@ This repository is the official implementation of the npjAI 2026 paper *LogicSle
 
 ## Visualization
 
-![](.\assets\Visualization.png)
+![](./assets/Visualization.png)
 
 ## Getting Started
 
